@@ -7,7 +7,6 @@ Repositório com exercícios desenvolvidos durante meus estudos de lógica de pr
 - Entrada de dados
 - Operações matemáticas
 - Soma de valores
-- Cálculo de média
 - Estrutura básica de programas em C
 
 ## 🎯 Objetivo
