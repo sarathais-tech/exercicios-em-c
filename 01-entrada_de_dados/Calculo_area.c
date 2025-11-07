@@ -15,7 +15,7 @@ int main(){
 	
 	area=(base*altura) /2;
 	
-	printf("A área calculada do tringulo é:%f\n", area);
+	printf("A Ã¡rea calculada do tringulo Ã©:%f\n", area);
 	
 	return 0;
 }
